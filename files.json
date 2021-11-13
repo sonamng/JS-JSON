@@ -1,0 +1,10 @@
+{
+    "username": "sonam",
+    "password": "@sonam12345",
+    "profile": {
+        "dateOfBirth": 1,
+        "gender": "female",
+        "description": "asdf",
+        "hobbies": "read"
+    }
+}
